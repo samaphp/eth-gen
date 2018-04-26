@@ -2,6 +2,11 @@
 
 Createing a private Ethereum node.
 
+## Requirements
+
+Download (Geth & Tools) from [geth.ethereum.org](https://geth.ethereum.org/downloads/).
+
+
 ## Getting Started
 
 Install the dependencies.
